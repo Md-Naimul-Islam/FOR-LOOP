@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Love is blind</title>
+</head>
+<body>
+	<script type="text/javascript">
+		
+		for (i=0; i<=6; i++) 
+		{
+			document.write(i + "<br>");
+		}
+
+	</script>
+</body>
+</html>
